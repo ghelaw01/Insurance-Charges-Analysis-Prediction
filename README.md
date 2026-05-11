@@ -1,4 +1,9 @@
-# END-TO-END-ML-MODELING-WITH-VISUALIZATION
+# Insurance Charges Analysis & Prediction (End-to-end ML)
+
+> **Author:** [Zemen Matebe Ghelaw](https://github.com/ghelaw01) — Data Scientist & AI/ML Specialist
+> **Repository:** [`ghelaw01/Insurance-Charges-Analysis-Prediction`](https://github.com/ghelaw01/Insurance-Charges-Analysis-Prediction)
+
+End-to-end ML modeling and EDA for insurance charge prediction with visualization, preprocessing, Gradient Boosting Regressor, and reusable prediction module.
 
 Insurance Charges Analysis & Prediction
 This project performs an extensive exploratory data analysis (EDA) and builds a machine learning model to predict insurance charges based on various features like age, sex, BMI, number of children, smoking status, and geographic region. The work is structured in a Jupyter notebook that covers data visualization, preprocessing, modeling, and evaluation.
@@ -61,3 +66,7 @@ Use the batch prediction function for multiple entries:
 Contributing
 Contributions are welcome! If you have ideas to improve the project, please open an issue or submit a pull request with your suggestions.
 
+
+---
+
+<sub><b>Author:</b> Zemen Matebe Ghelaw (also: Zemen Ghelaw, Zemen M. Ghelaw) — Data Scientist & AI/ML Specialist based in Washington, D.C. · <a href="https://github.com/ghelaw01">github.com/ghelaw01</a><br><b>Keywords:</b> insurance charges · EDA · gradient boosting · scikit-learn · regression · healthcare insurance · Zemen Matebe Ghelaw</sub>
